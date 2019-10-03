@@ -1,6 +1,6 @@
 ---
 layout: page
-title: lectures
+title: Lectures
 order: 2
 ---
 
@@ -64,7 +64,7 @@ order: 2
   * Convolutional neural network (CNN)
 
 
-## Textbooks
+<!-- ## Textbooks
 
 * Hastie, T., Tibshirani, R., and Friedman, J. (2016). [The Elements of Statistical Learning: Data Mining, Inference, and Prediction](http://web.stanford.edu/~hastie/ElemStatLearn/). Springer, 2nd edition
 * Daumé III, H. (2017). [A Course in Machine Learning](http://ciml.info/dl/v0_99/ciml-v0_99-all.pdf). Self-published, 2nd edition
@@ -72,4 +72,4 @@ order: 2
 * Bishop, C. M. (2006). [Pattern recognition and machine learning](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf). Springer.
 * James, G., Witten, D., Hastie, T., and Tibshirani, R. (2013). [An introduction to statistical learning](http://www-bcf.usc.edu/~gareth/ISL/). Springer
 * Goodfellow, I., Bengio, Y., and Courville, A. (2016). [Deep learning](https://www.deeplearningbook.org/). MIT press.
-* Valiant, L. (2013). Probably Approximately Correct: Nature's Algorithms for Learning and Prospering in a Complex World. Basic Books, Inc.
+* Valiant, L. (2013). Probably Approximately Correct: Nature's Algorithms for Learning and Prospering in a Complex World. Basic Books, Inc. -->
