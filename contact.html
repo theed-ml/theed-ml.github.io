@@ -4,11 +4,19 @@ title: Contact
 order: 3
 ---
 
-<form action="https://formspree.io/xdqnlldm" method="POST">
-  Name: <input type="text" name="name" placeholder="Your name"> <br />
-  Email: <input type="email" name="_replyto" placeholder="Your email"> <br />
-  Message: <textarea name="message" placeholder="Type your message"></textarea> <br />
-  <input type="submit" value="Send">
-  <input type="hidden" name="_subject" value="ESME"/>
-  <input type="hidden" name="_next" value="thanks.html"/>
-</form>
+<div class="page">
+
+  <h1 class="page-title">Contact</h1>
+  <form action="https://formspree.io/xdqnlldm" method="POST">
+    Name: <input type="text" name="name" placeholder="Your name" size="30"> <br />
+    Email: <input type="email" name="_replyto" placeholder="Your email" size="40"> <br />
+    <p> Message: </p> 
+    <textarea name="message" placeholder="Type your message" rows="20" cols="60"></textarea>
+    <p>
+    <input type="submit" value="Send">
+  </p>
+    <input type="hidden" name="_subject" value="ESME"/>
+    <input type="hidden" name="_next" value="thanks.html"/>
+  </form>
+</div>
+
