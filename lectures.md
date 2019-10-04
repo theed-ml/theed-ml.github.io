@@ -48,20 +48,20 @@ order: 2
 
 6. Recommender systems: recommending products
 
-  * Introduction to recommender systems
-  * Performance metrics
+    * Introduction to recommender systems
+    * Performance metrics
 
 7. Neural networks
 
-  * Perceptron
-  * Multilayer Perceptron 
-  * Support Vector Machines (SVM)
+    * Perceptron
+    * Multilayer Perceptron 
+    * Support Vector Machines (SVM)
 
 8. Deep learning: image classification
   
-  * Introduction
-  * Single and multilayer networks
-  * Convolutional neural network (CNN)
+    * Introduction
+    * Single and multilayer networks
+    * Convolutional neural network (CNN)
 
 
 <!-- ## Textbooks
