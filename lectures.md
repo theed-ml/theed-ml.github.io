@@ -6,12 +6,20 @@ order: 2
 
 1. Machine Learning 
 
-   * Introduction to machine learning
+   * [Introduction to machine learning](lectures/01_introduction_to_machine_learning.pdf)
+       - **Suggested readings**:
+          - Pedro Domingos. [“A Few Useful Things to Know About Machine Learning”](https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf). In: Communication of the ACM 55.10 (2012), pp. 78–87
+          - D. Sculley et al. [“Hidden Technical Debt in Machine Learning Systems”](https://papers.nips.cc/paper/5656-hidden-technical-debt-in-machine-learning-systems.pdf). In: 28th International Conference on Neural Information Processing Systems. 2015, pp. 2503–2511
+          - [Machine Learning for Everyone](http://vas3k.com/blog/machine_learning/)
+          - Amershi, Saleema, Andrew Begel, Christian Bird, Robert DeLine, Harald Gall, Ece Kamar, Nachiappan Nagappan, Besmira Nushi, and Thomas Zimmermann. ["Software engineering for machine learning: a case study."](https://www.microsoft.com/en-us/research/uploads/prod/2019/03/amershi-icse-2019_Software_Engineering_for_Machine_Learning.pdf) In 41st International Conference on Software Engineering: Software Engineering in Practice, pp. 291-300. 2019.
    * Computational foundations:
-       - Using Python, Anaconda, Jupyter Notebooks
+       - [A crash course in Python](lectures/02_crash_course_in_python.pdf)
        - Scientific Computing with NumPy, SciPy, and Matplotlib
        - Exploratory data analysis (EDA), data processing, and machine learning with [scikit-learn](https://scikit-learn.org/)
-       - Reproducible machine learning pipeline with Docker
+       - Reproducible machine learning pipeline
+           * **Suggested readings:**
+                 * [Reproducible model training: deep dive](https://towardsdatascience.com/reproducible-model-training-deep-dive-2a4988d69031)
+                 * Olorisade, Babatunde K., Pearl Brereton, and Peter Andras. ["Reproducibility in machine Learning-Based studies: An example of text mining."](https://openreview.net/pdf?id=By4l2PbQ-) 2017.
 
 2. Regression: predicting house prices
    
