@@ -21,13 +21,13 @@ order: 2
                  * [Reproducible model training: deep dive](https://towardsdatascience.com/reproducible-model-training-deep-dive-2a4988d69031)
                  * Olorisade, Babatunde K., Pearl Brereton, and Peter Andras. ["Reproducibility in machine Learning-Based studies: An example of text mining."](https://openreview.net/pdf?id=By4l2PbQ-) 2017.
 
-2. Regression: predicting house prices
+2. [Regression: predicting house prices](lectures/03_regression_methods.pdf)
    
    * Introduction
    * Regression, gradient descent
    * Assessing performance, error types, and bias/variance trade-off
-   * Overfitting, regularized regression, ridge regression
-   * Lasso regression, cross-validation
+   * Overfitting, regularized regression, Ridge regression, Lasso regression
+   * Cross-validation
 
 3. Classification: sentiment analysis
 
